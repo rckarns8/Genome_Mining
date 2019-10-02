@@ -1,4 +1,4 @@
-HMMER3/f [3.1b2 | February 2015]
+HMMER3/f [3.2.1 | June 2018]
 NAME  FccA
 LENG  199
 ALPH  amino
@@ -7,7 +7,7 @@ MM    no
 CONS  yes
 CS    no
 MAP   yes
-DATE  Mon May 20 15:13:41 2019
+DATE  Wed Oct  2 13:53:52 2019
 NSEQ  3
 EFFN  0.583008
 CKSUM 1728956447

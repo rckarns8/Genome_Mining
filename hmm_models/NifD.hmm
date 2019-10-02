@@ -1,4 +1,4 @@
-HMMER3/f [3.1b2 | February 2015]
+HMMER3/f [3.2.1 | June 2018]
 NAME  NifD
 LENG  484
 ALPH  amino
@@ -7,7 +7,7 @@ MM    no
 CONS  yes
 CS    no
 MAP   yes
-DATE  Mon May 20 15:13:48 2019
+DATE  Wed Oct  2 13:54:01 2019
 NSEQ  20
 EFFN  5.122070
 CKSUM 593162220
