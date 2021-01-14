@@ -1,0 +1,92 @@
+# STOCKHOLM 1.0
+
+lcl|KT955014.1_prot_ALQ33329.1_1   MAMNRRTFLGLGAAGAVAAVHAYGTTAATASSLAPAAAPTQRFA------
+lcl|AY515684.1_prot_AAS88974.1_1   ------------------------------------------------MS
+lcl|AF032114.2_prot_AAG32954.1_14  --------------------------------------------MAKITK
+lcl|AY506552.1_prot_AAS86342.1_5   --------------------------------------------MAKINR
+lcl|AY515685.1_prot_AAS88979.1_5   --------MRT-APGGMRKMASFFEK--ILGALFP--KPSSGFTGSTSAK
+lcl|AY515685.1_prot_AAS88978.1_4   --------------------------------------------MALINK
+lcl|AY515686.1_prot_AAS88985.1_5   --------------------------------------------MAKINN
+lcl|AY515687.1_prot_AAS88990.1_5   --------------------------------------------MAKINN
+
+lcl|KT955014.1_prot_ALQ33329.1_1   IGVREYAWSRGSRRLTTRIFYPATGTPGGDPVVNAPIADGVFPICEFSHG
+lcl|AY515684.1_prot_AAS88974.1_1   MFIGEGLFGDGNEIAHIDLLIGDK---------------TGPVGTAFANA
+lcl|AF032114.2_prot_AAG32954.1_14  VQVGEALVGDGNEVAHIDLIIGPR---------------GSPAETAFCNG
+lcl|AY506552.1_prot_AAS86342.1_5   VMVGESLVGDGNEVAHIDLVIGPR---------------GSAAETAFVNA
+lcl|AY515685.1_prot_AAS88979.1_5   TGVGESLVGDGNEVAHIDLIMGPR---------------GSAAEKAFANG
+lcl|AY515685.1_prot_AAS88978.1_4   MLVGESLVGEGNEVAHIDLIMGPR---------------GSAAELAFANA
+lcl|AY515686.1_prot_AAS88985.1_5   LRVGESLVGEGNEVAHIDLIIGPR---------------GSAAETAFANC
+lcl|AY515687.1_prot_AAS88990.1_5   LRVGESLVGEGNEIAHIDLIIGPR---------------GSAAETAFANA
+
+lcl|KT955014.1_prot_ALQ33329.1_1   LGGNPESYAPLVRPLAEAGFVVPAPVFPTTSSGTQGNVQDVYNGNQSMDV
+lcl|AY515684.1_prot_AAS88974.1_1   LATQSEGHTNLLAIVAPNLICKPAT-------------------------
+lcl|AF032114.2_prot_AAG32954.1_14  LVNNKHGFTSLLAVIAPNLPCKPNT-------------------------
+lcl|AY506552.1_prot_AAS86342.1_5   LSNNKDGFTTLLAVIAPNLPCKPNT-------------------------
+lcl|AY515685.1_prot_AAS88979.1_5   LVNNKDGFTTLLAVIAPNLLVKPYT-------------------------
+lcl|AY515685.1_prot_AAS88978.1_4   LVNNKDGFTTLLAVVAPNLLCKPNT-------------------------
+lcl|AY515686.1_prot_AAS88985.1_5   LTNNKDGFSSLLAVVAPNLMVKPAT-------------------------
+lcl|AY515687.1_prot_AAS88990.1_5   LTNNKDGFSTLLAVVAPNLLVKPAT-------------------------
+
+lcl|KT955014.1_prot_ALQ33329.1_1   SQVITNTLALNTTAGDPLAGHLDTGTGVGVAGHSLGGMTTHGLLTAWPDS
+lcl|AY515684.1_prot_AAS88974.1_1   --------------------------------------------------
+lcl|AF032114.2_prot_AAG32954.1_14  --------------------------------------------------
+lcl|AY506552.1_prot_AAS86342.1_5   --------------------------------------------------
+lcl|AY515685.1_prot_AAS88979.1_5   --------------------------------------------------
+lcl|AY515685.1_prot_AAS88978.1_4   --------------------------------------------------
+lcl|AY515686.1_prot_AAS88985.1_5   --------------------------------------------------
+lcl|AY515687.1_prot_AAS88990.1_5   --------------------------------------------------
+
+lcl|KT955014.1_prot_ALQ33329.1_1   RIAAAVPFACVDMGNPSSTVAAKVLFVHGDQDTLTQYSSAR---------
+lcl|AY515684.1_prot_AAS88974.1_1   ------------------VMITKV-TIKGMRQAAQMFGPAQAAVGRAVAD
+lcl|AF032114.2_prot_AAG32954.1_14  ------------------LMFNKV-TINDARQAVQMFGPAQHGVAMAVQD
+lcl|AY506552.1_prot_AAS86342.1_5   ------------------IMFNKV-TIKDARQAVQMFGPAQYGVAKAVQD
+lcl|AY515685.1_prot_AAS88979.1_5   ------------------MMFNKV-TIKNAKQAVQMFGPAQHGVAKAVAD
+lcl|AY515685.1_prot_AAS88978.1_4   ------------------ILFNKV-TIKGAKQAVQMFGPAQHGVAKAVAD
+lcl|AY515686.1_prot_AAS88985.1_5   ------------------VMFNKV-TIKGSKQAVQMFGPAQRGVAMAVAD
+lcl|AY515687.1_prot_AAS88990.1_5   ------------------ILFNKV-TIKGAKQAVQMFGPAQRAVAMAVAD
+
+lcl|KT955014.1_prot_ALQ33329.1_1   -QAYGELPAPKAFLTHRGTGHDQYIWSGYNHTQTVATYVDWMRWSLYGDT
+lcl|AY515684.1_prot_AAS88974.1_1   CVAEGIIPKDK--------AEDYVIV--------CGVFIHPA---AADDT
+lcl|AF032114.2_prot_AAG32954.1_14  AVAEGIIPADE--------ADDLYVL--------VGVFIHWE---AADDA
+lcl|AY506552.1_prot_AAS86342.1_5   SVAEGVIPANE--------ADDLYVL--------VGVFIHWE---AADDA
+lcl|AY515685.1_prot_AAS88979.1_5   SVAEGVIPLEK--------AEDIFIC--------VGVFIHWD---ANDDQ
+lcl|AY515685.1_prot_AAS88978.1_4   SVAEGVIPVSE--------ADDIFIS--------VGVFIHWD---ANDDK
+lcl|AY515686.1_prot_AAS88985.1_5   SVENGTIPADE--------ADNLFIS--------VGVFIHWM---AEDDA
+lcl|AY515687.1_prot_AAS88990.1_5   SVEDGTIPADE--------ADDLFIS--------VGVFIHWL---AEDDA
+
+lcl|KT955014.1_prot_ALQ33329.1_1   AARDRLPADATSNTSTTTWEAVLTPLPTG-RIVSLRSRANNQYVCAENAG
+lcl|AY515684.1_prot_AAS88974.1_1   KIYDYN-YEATK----MAIKCAMTGTPKIDEILAK-KS-----------T
+lcl|AF032114.2_prot_AAG32954.1_14  KIQKYN-YEATK----LSIQRAVNGEPKASVVTEQRKS-----------A
+lcl|AY506552.1_prot_AAS86342.1_5   KIQDYN-YRATK----EALARAVAGKPTAAEATAQRNS-----------V
+lcl|AY515685.1_prot_AAS88979.1_5   KIQDFN-YQATK----EAIARAMKGDPMAQRVVQERVT-----------A
+lcl|AY515685.1_prot_AAS88978.1_4   KIQDYN-YTATK----EAIARAVRGEPKASEVVAKRND-----------A
+lcl|AY515686.1_prot_AAS88985.1_5   KIQQYN-YEATK----EAIERAVAGSPTAQEVVAAKAT-----------A
+lcl|AY515687.1_prot_AAS88990.1_5   KIEEFN-YKATK----EAIARAVAGTPTAKEVVAAKSG-----------A
+
+lcl|KT955014.1_prot_ALQ33329.1_1   TDPLIANRTAIGDWERFDLLDLGGGAVALRAHVNGRYVCAENAGANALIA
+lcl|AY515684.1_prot_AAS88974.1_1   KHPFSPK-------------------------------------------
+lcl|AF032114.2_prot_AAG32954.1_14  THPFAANA------------------------------------------
+lcl|AY506552.1_prot_AAS86342.1_5   SHPFGAKT------------------------------------------
+lcl|AY515685.1_prot_AAS88979.1_5   KHPFAAN-------------------------------------------
+lcl|AY515685.1_prot_AAS88978.1_4   KHPFARTKVRAPP-------------------------------------
+lcl|AY515686.1_prot_AAS88985.1_5   THPFAAN-------------------------------------------
+lcl|AY515687.1_prot_AAS88990.1_5   KHPFATNNV-----------------------------------------
+
+lcl|KT955014.1_prot_ALQ33329.1_1   NRTAVGPWETFQRVNNSDGTTSLRAQANNLYVSAGNAGTAPLIANRTTIG
+lcl|AY515684.1_prot_AAS88974.1_1   --------------------------------------------------
+lcl|AF032114.2_prot_AAG32954.1_14  --------------------------------------------------
+lcl|AY506552.1_prot_AAS86342.1_5   --------------------------------------------------
+lcl|AY515685.1_prot_AAS88979.1_5   --------------------------------------------------
+lcl|AY515685.1_prot_AAS88978.1_4   --------------------------------------------------
+lcl|AY515686.1_prot_AAS88985.1_5   --------------------------------------------------
+lcl|AY515687.1_prot_AAS88990.1_5   --------------------------------------------------
+
+lcl|KT955014.1_prot_ALQ33329.1_1   PSESFDLVNV
+lcl|AY515684.1_prot_AAS88974.1_1   ----------
+lcl|AF032114.2_prot_AAG32954.1_14  ----------
+lcl|AY506552.1_prot_AAS86342.1_5   ----------
+lcl|AY515685.1_prot_AAS88979.1_5   ----------
+lcl|AY515685.1_prot_AAS88978.1_4   ----------
+lcl|AY515686.1_prot_AAS88985.1_5   ----------
+lcl|AY515687.1_prot_AAS88990.1_5   ----------
+//
